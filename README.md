@@ -29,10 +29,10 @@ The analysis of the election show that:
   
 ## Chalenge Overview
 In additional to the items listed on Project Overview, the Colorado Board of Elections added the following tasks:
-6. Get a complete list of counties where votes were posted
-7. Calculate the total number of votes on each county.
-8. Calculate the percentage of votes on each county.
-5. Determine the county with the highest turnout.
+ 1. Get a complete list of counties where votes were posted
+ 2. Calculate the total number of votes on each county.
+ 3. Calculate the percentage of votes on each county.
+ 4. Determine the county with the highest turnout.
 
 ## Chalenge Summary
 The analysis of the election show that:
